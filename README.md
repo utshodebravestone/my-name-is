@@ -1,3 +1,3 @@
-# my name is
+# my-name-is
 
 Introduce yourself to the world
