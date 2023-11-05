@@ -6,7 +6,7 @@ const Navbar = () => {
       <nav className="flex justify-between items-center">
         <h1 className="text-5xl font-light">my-name-is</h1>
 
-        <ul className="flex gap-5">
+        <ul className="flex gap-3">
           <li className="text-xl">
             <NavLink
               className={({ isActive }) =>
@@ -42,7 +42,7 @@ const Navbar = () => {
               }
               to="/signup"
             >
-              Sing Up/In
+              SingUp
             </NavLink>
           </li>
         </ul>
